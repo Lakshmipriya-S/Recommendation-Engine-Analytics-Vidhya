@@ -24,7 +24,7 @@ Doing so, the programming committee will be able to identify where and when the 
 - The output file is `Submission.csv`.
 
 ## Approach
-To know how to solve the problem statement [Approach](https://github.com/Lakshmipriya-S/Recommendation-Engine-Analytics-Vidhya/blob/main/Approach.docx)
+To know how to solve the problem statement [Approach](https://github.com/Lakshmipriya-S/Recommendation-Engine-Analytics-Vidhya/blob/main/Approach%20-%20Recommendation%20system.docx)
 
 ## Conclusion
 We have obtained a good f1_score score for test data. The thresholds for each of the model has helped in decent split and we have successfully achieved the objective
